@@ -10,8 +10,8 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/whojave/gossr/tools"
-	"github.com/whojave/gossr/tools/leakybuf"
+	"github.com/localts/gossr/tools"
+	"github.com/localts/gossr/tools/leakybuf"
 
 	"github.com/dgryski/go-camellia"
 	"github.com/dgryski/go-idea"

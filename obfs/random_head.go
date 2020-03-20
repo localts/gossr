@@ -3,7 +3,7 @@ package obfs
 import (
 	"math/rand"
 
-	"github.com/whojave/gossr/ssr"
+	"github.com/localts/gossr/ssr"
 )
 
 type randomHead struct {

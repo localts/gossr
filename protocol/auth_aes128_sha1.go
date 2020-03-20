@@ -3,7 +3,7 @@ package protocol
 import (
 	"bytes"
 
-	"github.com/whojave/gossr/tools"
+	"github.com/localts/gossr/tools"
 )
 
 func init() {

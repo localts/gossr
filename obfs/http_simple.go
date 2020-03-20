@@ -7,7 +7,7 @@ import (
 	"math/rand"
 	"strings"
 
-	"github.com/whojave/gossr/ssr"
+	"github.com/localts/gossr/ssr"
 )
 
 var (
